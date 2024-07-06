@@ -4,7 +4,7 @@ Welcome to Genshindle Solver, a tool that helps you solve Genshindle
 
 ## Overview
 
-Genshindle Solver is a Python-based application designed to provide a streamlined interface for managing character data in Genshin Impact. It allows users to filter and display character information based on various attributes such as region, element, weapon type, and version.
+Genshindle Solver is a Python-based application designed to provide a streamlined interface. It allows users to filter and display character information based on various attributes such as region, element, weapon type, and version.
 
 ## Features
 
