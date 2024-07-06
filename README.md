@@ -1,6 +1,6 @@
 # Genshindle Solver
 
-Welcome to Genshindle Solver, a tool for managing and analyzing Genshin Impact character data.
+Welcome to Genshindle Solver, a tool that helps you solve Genshindle
 
 ## Overview
 
